@@ -2,3 +2,4 @@ Witaj!
 Dzisiaj jest wtorek.
 "trzecia linia" 
 55555444444
+6789
